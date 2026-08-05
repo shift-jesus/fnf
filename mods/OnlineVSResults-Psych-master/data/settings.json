@@ -1,0 +1,16 @@
+[
+	{
+		"save": "OVSResults-trigger",
+		"name": "Only when triggered",
+		"type": "bool",
+		"description": "Makes the result screen display only when another mod triggers it using the `Signal-Trigger OVS Results` event.",
+		"value": true
+	},
+	{
+		"save": "OVSResults-freeplay",
+		"name": "Only on freeplay",
+		"type": "bool",
+		"description": "Makes the result screen display only on freeplay.",
+		"value": false
+	}
+]
