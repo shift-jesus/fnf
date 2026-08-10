@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sp.png">
+<SubTexture name="sp sp0000" x="380" y="384" width="441" height="353" frameX="0" frameY="-28" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0001" x="380" y="384" width="441" height="353" frameX="0" frameY="-28" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0002" x="0" y="384" width="380" height="378" frameX="-48" frameY="-6" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0003" x="0" y="384" width="380" height="378" frameX="-48" frameY="-6" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0004" x="0" y="0" width="363" height="384" frameX="-62" frameY="0" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0005" x="0" y="0" width="363" height="384" frameX="-62" frameY="0" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0006" x="363" y="0" width="369" height="382" frameX="-57" frameY="-2" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0007" x="732" y="0" width="371" height="381" frameX="-55" frameY="-3" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0008" x="732" y="0" width="371" height="381" frameX="-55" frameY="-3" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0009" x="732" y="0" width="371" height="381" frameX="-55" frameY="-3" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0010" x="732" y="0" width="371" height="381" frameX="-55" frameY="-3" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0011" x="732" y="0" width="371" height="381" frameX="-55" frameY="-3" frameWidth="441" frameHeight="384" />
+<SubTexture name="sp sp0012" x="732" y="0" width="371" height="381" frameX="-55" frameY="-3" frameWidth="441" frameHeight="384" />
+</TextureAtlas>

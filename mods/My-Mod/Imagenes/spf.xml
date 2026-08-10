@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spf.png">
+<SubTexture name="spf spf0000" x="520" y="1679" width="571" height="333" frameX="-2" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0001" x="520" y="1679" width="571" height="333" frameX="-2" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0002" x="988" y="336" width="543" height="335" frameX="-30" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0003" x="988" y="336" width="543" height="335" frameX="-30" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0004" x="2066" y="0" width="524" height="332" frameX="-49" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0005" x="2066" y="0" width="524" height="332" frameX="-49" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0006" x="0" y="674" width="514" height="335" frameX="-59" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0007" x="0" y="674" width="514" height="335" frameX="-59" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0008" x="2066" y="332" width="511" height="332" frameX="-62" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0009" x="2066" y="332" width="511" height="332" frameX="-62" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0010" x="514" y="674" width="513" height="335" frameX="-60" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0011" x="514" y="674" width="513" height="335" frameX="-60" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0012" x="2066" y="664" width="515" height="332" frameX="-58" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0013" x="2066" y="664" width="515" height="332" frameX="-58" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0014" x="1027" y="674" width="517" height="335" frameX="-56" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0015" x="1027" y="674" width="517" height="335" frameX="-56" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0016" x="0" y="1009" width="494" height="335" frameX="-79" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0017" x="0" y="1009" width="494" height="335" frameX="-79" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0018" x="0" y="0" width="494" height="338" frameX="-79" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0019" x="494" y="0" width="494" height="338" frameX="-79" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0020" x="494" y="1009" width="494" height="335" frameX="-79" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0021" x="2066" y="996" width="498" height="332" frameX="-75" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0022" x="988" y="1009" width="498" height="335" frameX="-75" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0023" x="1559" y="0" width="507" height="335" frameX="-66" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0024" x="2066" y="1328" width="507" height="332" frameX="-66" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0025" x="2066" y="1660" width="519" height="332" frameX="-54" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0026" x="0" y="1344" width="519" height="335" frameX="-54" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0027" x="519" y="1344" width="524" height="335" frameX="-49" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0028" x="0" y="2014" width="524" height="332" frameX="-49" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0029" x="524" y="2014" width="523" height="332" frameX="-50" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0030" x="1043" y="1344" width="523" height="335" frameX="-50" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0031" x="0" y="1679" width="520" height="335" frameX="-53" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0032" x="1047" y="2014" width="520" height="332" frameX="-53" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0033" x="1567" y="2014" width="517" height="332" frameX="-56" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0034" x="1027" y="674" width="517" height="335" frameX="-56" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0035" x="1027" y="674" width="517" height="335" frameX="-56" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0036" x="1091" y="1679" width="572" height="333" frameX="-1" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0037" x="1091" y="1679" width="572" height="333" frameX="-1" frameY="-3" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0038" x="0" y="338" width="573" height="336" frameX="0" frameY="0" frameWidth="573" frameHeight="338" />
+<SubTexture name="spf spf0039" x="988" y="0" width="571" height="336" frameX="-2" frameY="0" frameWidth="573" frameHeight="338" />
+</TextureAtlas>

@@ -1,5 +1,5 @@
 {
-	"backgroundSprite": "fondo",
+	"backgroundSprite": "bg",
 	"backgroundAnim": "",
 	"backgroundFps": 20,
 	"backgroundFit": false
