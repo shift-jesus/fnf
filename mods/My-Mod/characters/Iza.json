@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-30, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Iza idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [141, -7],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Iza left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-45, -84],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Iza down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-46, 8],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Iza up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-40, -15],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Iza right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-4, -6],
+			"anim": "Rspin",
+			"fps": 24,
+			"name": "Iza Rspin",
+			"indices": []
+		},
+		{
+			"offsets": [-20, 10],
+			"indices": [],
+			"fps": 24,
+			"anim": "spin",
+			"loop": true,
+			"name": "Iza spin"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Iza",
+	"position": [0, 0],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [-30, 100],
+	"sing_duration": 4,
+	"scale": 0.95,
+	"_editor_isPlayer": false
+}

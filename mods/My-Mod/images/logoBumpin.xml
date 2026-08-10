@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumpin instancia 10000" x="0" y="0" width="699" height="417" frameX="-4" frameY="-13" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10001" x="699" y="0" width="700" height="417" frameX="-3" frameY="-13" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10002" x="1399" y="0" width="703" height="412" frameX="-2" frameY="-18" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10003" x="2102" y="0" width="704" height="412" frameX="-1" frameY="-18" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10004" x="2806" y="0" width="704" height="412" frameX="-1" frameY="-18" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10005" x="0" y="417" width="704" height="412" frameX="-1" frameY="-18" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10006" x="704" y="417" width="704" height="413" frameX="0" frameY="-17" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10007" x="1408" y="417" width="704" height="413" frameX="0" frameY="-17" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10008" x="2112" y="417" width="700" height="413" frameX="-4" frameY="-17" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10009" x="2812" y="417" width="696" height="425" frameX="-5" frameY="-6" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10010" x="0" y="842" width="695" height="425" frameX="-6" frameY="-6" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10011" x="695" y="842" width="692" height="430" frameX="-7" frameY="-2" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10012" x="1387" y="842" width="691" height="430" frameX="-8" frameY="-2" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10013" x="2078" y="842" width="691" height="432" frameX="-8" frameY="0" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10014" x="2769" y="842" width="691" height="432" frameX="-8" frameY="0" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10015" x="0" y="1274" width="690" height="431" frameX="-9" frameY="-1" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10016" x="690" y="1274" width="690" height="431" frameX="-9" frameY="-1" frameWidth="705" frameHeight="432"/>
+	<SubTexture name="logo bumpin instancia 10017" x="1380" y="1274" width="690" height="430" frameX="-9" frameY="-2" frameWidth="705" frameHeight="432"/>
+</TextureAtlas>
